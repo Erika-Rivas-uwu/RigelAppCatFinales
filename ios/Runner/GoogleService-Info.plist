@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>827499930358-c2iktk5dv6v5r1i331o1eos0lqrd2ih3.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.827499930358-c2iktk5dv6v5r1i331o1eos0lqrd2ih3</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCBHYrTP1JwzsGq5_rVhCeJr8j7pmiGvQE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>827499930358</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.rigelApplication</string>
+	<key>PROJECT_ID</key>
+	<string>flutter-rigelapplication-isw9a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>flutter-rigelapplication-isw9a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:827499930358:ios:c7f4a4126a25a1f543c2d7</string>
+	<key>DATABASE_URL</key>
+	<string>https://flutter-rigelapplication-isw9a-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

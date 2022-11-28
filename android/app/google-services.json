@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "827499930358",
+    "firebase_url": "https://flutter-rigelapplication-isw9a-default-rtdb.firebaseio.com",
+    "project_id": "flutter-rigelapplication-isw9a",
+    "storage_bucket": "flutter-rigelapplication-isw9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827499930358:android:1aa652e06c287ae243c2d7",
+        "android_client_info": {
+          "package_name": "com.example.rigel_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827499930358-v06amnrjas9gk74stsu2pvgaltsh54v0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBayMCDwm-1XOyaQFiee4QBGLGDa_UpLd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "827499930358-v06amnrjas9gk74stsu2pvgaltsh54v0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
